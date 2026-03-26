@@ -21,4 +21,10 @@
 - 📧 **Email:** [hariom.done0011@gmail.com](mailto:hariom.done0011@gmail.com)
 - 📍 **Location:** Bhopal, MP
 
-*“Consistency is what transforms average into excellence.”*
+*“---
+
+### 📊 My GitHub Stats
+
+![Hariom's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariom-pandey-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariom-pandey-dev&layout=compact&theme=radical)Consistency is what transforms average into excellence.”*
